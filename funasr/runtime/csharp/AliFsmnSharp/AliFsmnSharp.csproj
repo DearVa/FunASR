@@ -21,6 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\..\EasyPathology.Abstractions\src\EasyPathology.Abstractions.csproj" />
     <ProjectReference Include="..\KaldiNativeFbankSharp\kaldi-native-fbank-dll\kaldi-native-fbank-dll.vcxproj">
       <!--不作为程序集引用-->
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>

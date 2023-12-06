@@ -21,6 +21,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\..\..\..\..\..\EasyPathology.Abstractions\src\EasyPathology.Abstractions.csproj" />
       <ProjectReference Include="..\AliFsmnSharp\AliFsmnSharp.csproj" />
     </ItemGroup>
 
