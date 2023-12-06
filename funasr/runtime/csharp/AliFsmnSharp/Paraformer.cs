@@ -1,7 +1,7 @@
 ﻿using AliFsmnSharp.Model;
 using AliFsmnSharp.Utils;
-using EasyPathology.Definitions.Extensions;
-using EasyPathology.Definitions.Models;
+using EasyPathology.Abstractions.Extensions;
+using EasyPathology.Abstractions.Models;
 using Microsoft.ML.OnnxRuntime;
 using Microsoft.ML.OnnxRuntime.Tensors;
 
